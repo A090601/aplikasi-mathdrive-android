@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_gameplay.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_gameplay.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_sfx.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_sfx.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_app_icon.png.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/app_icon.png"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable_monkey_wrong.png.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable/monkey_wrong.png"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable_monkey_correct.png.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable/monkey_correct.png"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_vfx.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_vfx.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_music_haptic.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_music_haptic.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_game_over_ui.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_game_over_ui.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_menu_result.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_menu_result.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_vehicle_bicycle.png.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/vehicle_bicycle.png"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_vehicle_car.png.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/vehicle_car.png"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_vehicles.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_vehicles.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_level_complete.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_level_complete.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_environment.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_environment.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_garage.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_garage.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_tracks.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_tracks.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_examples.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_examples.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_menu_ui.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_menu_ui.jpg"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_vehicle_motor.png.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/vehicle_motor.png"
+    },
+    {
+        "merged": "com.combodrive.game.app-debug-4:/drawable-nodpi_ref_background.jpg.flat",
+        "source": "com.combodrive.game.app-main-6:/drawable-nodpi/ref_background.jpg"
+    }
+]

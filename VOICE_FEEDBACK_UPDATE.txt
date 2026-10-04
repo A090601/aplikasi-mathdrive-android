@@ -1,0 +1,5 @@
+Pembaruan audio:
+- Jawaban benar: suara TTS bahasa Indonesia "Benar!" + bunyi ACK.
+- Jawaban salah: suara TTS "Salah!" + bunyi NACK + getaran.
+- Waktu habis: suara TTS "Waktu habis!" + bunyi NACK + getaran.
+- Semua suara mengikuti pengaturan Suara/Sound.

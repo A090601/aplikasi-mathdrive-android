@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.combodrive.game.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\MathDriveAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "292",
+                        "endOffsets": "292"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endColumns": "285",
+                        "endOffsets": "383"
+                    }
+                },
+                {
+                    "source": "D:\\MathDriveAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "46",
+                        "endOffsets": "58"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                }
+            ]
+        }
+    ]
+}

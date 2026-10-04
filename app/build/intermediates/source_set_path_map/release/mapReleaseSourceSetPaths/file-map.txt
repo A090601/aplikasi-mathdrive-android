@@ -1,0 +1,7 @@
+com.combodrive.game.app-pngs-0 D:\ComboDriveAndroid\app\build\generated\res\pngs\release
+com.combodrive.game.app-resValues-1 D:\ComboDriveAndroid\app\build\generated\res\resValues\release
+com.combodrive.game.app-packageReleaseResources-2 D:\ComboDriveAndroid\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.combodrive.game.app-packageReleaseResources-3 D:\ComboDriveAndroid\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.combodrive.game.app-release-4 D:\ComboDriveAndroid\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.combodrive.game.app-main-5 D:\ComboDriveAndroid\app\src\main\res
+com.combodrive.game.app-release-6 D:\ComboDriveAndroid\app\src\release\res

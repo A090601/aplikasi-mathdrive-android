@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+drawable app_icon
+drawable monkey_correct
+drawable monkey_wrong
+drawable ref_background
+drawable ref_environment
+drawable ref_examples
+drawable ref_game_over_ui
+drawable ref_gameplay
+drawable ref_garage
+drawable ref_level_complete
+drawable ref_menu_result
+drawable ref_menu_ui
+drawable ref_music_haptic
+drawable ref_sfx
+drawable ref_tracks
+drawable ref_vehicles
+drawable ref_vfx
+drawable vehicle_bicycle
+drawable vehicle_car
+drawable vehicle_motor
+string app_name
+style AppTheme

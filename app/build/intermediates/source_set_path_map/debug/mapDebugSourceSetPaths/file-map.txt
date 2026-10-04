@@ -1,0 +1,7 @@
+com.combodrive.game.app-pngs-0 D:\MathDriveAndroid\app\build\generated\res\pngs\debug
+com.combodrive.game.app-resValues-1 D:\MathDriveAndroid\app\build\generated\res\resValues\debug
+com.combodrive.game.app-packageDebugResources-2 D:\MathDriveAndroid\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.combodrive.game.app-packageDebugResources-3 D:\MathDriveAndroid\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.combodrive.game.app-debug-4 D:\MathDriveAndroid\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.combodrive.game.app-debug-5 D:\MathDriveAndroid\app\src\debug\res
+com.combodrive.game.app-main-6 D:\MathDriveAndroid\app\src\main\res

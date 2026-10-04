@@ -1,0 +1,4 @@
+#Mon Sep 21 05:30:27 WIB 2026
+base.0=D\:\\ComboDriveAndroid\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
